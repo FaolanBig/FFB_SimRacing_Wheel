@@ -39,12 +39,12 @@
 *.app
 
 # Build directories
-build/
-!build/
-build/*
-!build/README.md
-Build/
-build-*/
+#build/
+#!build/
+#build/*
+#!build/README.md
+#Build/
+#build-*/
 
 # CMake generated files
 CMakeFiles/
